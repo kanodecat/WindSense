@@ -1,2 +1,2 @@
-# Ardublock
-Uses block-based coding similar to Scratch. Easy-to-use for education, beginners, and prototyping.
+# WindSense
+Activates a fan based on temperature, voice commands, and motion detection.
